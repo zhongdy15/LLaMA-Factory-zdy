@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="46a30127-5340-41fd-a5eb-368a58227037" name="a100">
+        <fileTransfer rootFolder="/data/zhongdianyu" accessType="SFTP" host="172.22.23.19" port="22" sshConfigId="8d8f1565-fa74-4a16-af71-c89766465100" sshConfig="zdy@172.22.23.19:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" connections="20" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="20" />
+      </webServer>
+    </option>
+  </component>
+</project>
