@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="a100" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+  <component name="PublishConfigData" serverName="yyq-8x4090" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
     <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="a100">
         <serverdata>
           <mappings>
             <mapping deploy="/LLaMA-Factory" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yyq-4xA800">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data4/zdy/LLaMA-Factory" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yyq-8x4090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/zdy/LLaMA-Factory" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

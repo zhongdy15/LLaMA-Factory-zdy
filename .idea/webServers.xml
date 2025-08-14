@@ -10,6 +10,20 @@
         </fileTransfer>
         <option name="numberOfConnections" value="20" />
       </webServer>
+      <webServer id="21d718ba-9942-4739-8fba-ba41bcab2cf2" name="yyq-4xA800">
+        <fileTransfer accessType="SFTP" host="172.18.30.162" port="22" sshConfigId="b9c19933-020f-4cf5-b1d9-7a5d8f5380b3" sshConfig="yyq-shixi3@172.18.30.162:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bc405b9c-440a-4607-ba31-56944c8f924e" name="yyq-8x4090">
+        <fileTransfer accessType="SFTP" host="172.18.30.73" port="22" sshConfigId="77c145d6-cb0c-420f-96bd-fdc7a1048bcd" sshConfig="zdy@172.18.30.73:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
