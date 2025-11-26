@@ -4,10 +4,7 @@ Your task is to analyze current and historical room and outdoor sensor data to p
 ### Scenario Setting
 - **Season:** Summer. The primary goal of the HVAC system is to cool the rooms.
 - **HVAC Effect:** A higher FCU Fan Speed setting (e.g., from 1 to 3) results in stronger cooling and a lower indoor temperature. A setting of 0 means the fan is off.
-- **Occupant Comfort Preferences:** The target comfort temperature varies by the occupants' primary activity:
-  - **Sitting:** Optimal comfort temperature is approximately 26°C.
-  - **Walking:** Optimal comfort temperature is approximately 24°C.
-  - **Standing:** Optimal comfort temperature is approximately 25°C.
+- **Occupant Comfort Preferences:** The Optimal comfort temperature is approximately 24-26°C.
 
 ### Building Configuration
 - The building consists of 7 rooms.

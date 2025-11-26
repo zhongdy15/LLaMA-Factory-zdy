@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a476df-4ad3-4a97-8a23-d6e17e2f339d" name="变更" comment="" />
+    <list default="true" id="a9a476df-4ad3-4a97-8a23-d6e17e2f339d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data/type1_stable_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data/type2_stable_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data/type3_adjusted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v5/type1_stable_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v5/type2_stable_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v5/type3_adjusted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v6/type1_stable_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v6/type2_stable_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v6/type3_adjusted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v7/type1_stable_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v7/type2_stable_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v7/type3_adjusted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type1_stable_off.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type2_stable_on.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type3_adjusted.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/predefined_prompt/instruction_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/predefined_prompt/system_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/test_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spbs_rl_action_mask/sft_training_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/garbage_test/test_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/garbage_test/test_tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/spbs_rl_data/system_prompt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/spbs_rl_data/system_prompt.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,42 +50,54 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/data/dataset_info.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/data/identity.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/data/spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type3_adjusted.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/data/spbs_expert_data/sft_construction/generate_sft_dataset_v8.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/data/spbs_rl_data/generate_sft_data.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/data/spbs_rl_data/test_load.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/data/update_dataset_info.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/garbage_test/test_extract.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/garbage_test/test_load.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/garbage_test/test_vllm.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/spbsrl_sft.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2zfqEwkFzc5ASJtiQxQ8egs1ueU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/research/LLaMA-Factory&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "D:/research/LLaMA-Factory/data/spbs_rl_action_mask",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\research\LLaMA-Factory\data\spbs_rl_action_mask" />
+      <recent name="D:\research\LLaMA-Factory\data\spbs_expert_data\sft_construction" />
+      <recent name="D:\research\LLaMA-Factory\data\spbs_expert_data" />
       <recent name="D:\research\LLaMA-Factory\data\spbs_rl_data" />
       <recent name="D:\research\LLaMA-Factory\data\spbs_rl_data\predefined_prompt" />
-      <recent name="D:\research\LLaMA-Factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_ouput">
+  <component name="RunManager" selected="Python.test_json">
     <configuration name="action_transform" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LLaMA-Factory" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generate_sft_data_with_history" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_extract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LLaMA-Factory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\zhong\AppData\Local\conda\conda\envs\llm\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/spbs_rl_data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/garbage_test" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/spbs_rl_data/generate_sft_data_with_history.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/garbage_test/test_extract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,20 +164,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_load" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LLaMA-Factory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\zhong\AppData\Local\conda\conda\envs\nesting\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/spbs_rl_data" />
+      <option name="SDK_HOME" value="C:\Users\zhong\AppData\Local\conda\conda\envs\llm\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/spbs_expert_data/sft_construction" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/spbs_rl_data/test_load.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/spbs_expert_data/sft_construction/test_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_json" />
+        <item itemvalue="Python.test_extract" />
         <item itemvalue="Python.test_ouput" />
         <item itemvalue="Python.action_transform" />
         <item itemvalue="Python.generate_sft_data" />
-        <item itemvalue="Python.generate_sft_data_with_history" />
-        <item itemvalue="Python.test_load" />
       </list>
     </recent_temporary>
   </component>
@@ -198,11 +242,39 @@
       <workItem from="1755001669073" duration="3129000" />
       <workItem from="1755048693860" duration="9377000" />
       <workItem from="1755069421559" duration="4928000" />
+      <workItem from="1755134294321" duration="2752000" />
+      <workItem from="1755223426317" duration="4000" />
+      <workItem from="1755569921819" duration="6028000" />
+      <workItem from="1755652077006" duration="3041000" />
+      <workItem from="1755739011054" duration="6248000" />
+      <workItem from="1757387730688" duration="6542000" />
+      <workItem from="1757468015597" duration="3628000" />
+      <workItem from="1757554345917" duration="4108000" />
+      <workItem from="1757640399331" duration="2771000" />
+      <workItem from="1757747366666" duration="1188000" />
+      <workItem from="1758181949681" duration="369000" />
+      <workItem from="1760584219235" duration="6250000" />
+      <workItem from="1760803314566" duration="3163000" />
+      <workItem from="1760944437586" duration="732000" />
+      <workItem from="1761722581157" duration="1778000" />
+      <workItem from="1762926030673" duration="1913000" />
+      <workItem from="1764137107133" duration="1034000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,8 +294,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LLaMA_Factory$action_transform.coverage" NAME="action_transform 覆盖结果" MODIFIED="1754067076199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/spbs_rl_data" />
+    <SUITE FILE_PATH="coverage/LLaMA_Factory$test_json.coverage" NAME="test_json 覆盖结果" MODIFIED="1757658860513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/spbs_expert_data/sft_construction" />
     <SUITE FILE_PATH="coverage/LLaMA_Factory$test_load.coverage" NAME="test_load 覆盖结果" MODIFIED="1752324962549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/spbs_rl_data" />
     <SUITE FILE_PATH="coverage/LLaMA_Factory$generate_sft_data.coverage" NAME="generate_sft_data 覆盖结果" MODIFIED="1754034535631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/spbs_rl_data" />
+    <SUITE FILE_PATH="coverage/LLaMA_Factory$test_extract.coverage" NAME="test_extract 覆盖结果" MODIFIED="1757402558118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/garbage_test" />
     <SUITE FILE_PATH="coverage/LLaMA_Factory$test_ouput.coverage" NAME="test_ouput 覆盖结果" MODIFIED="1754116305703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/garbage_test" />
     <SUITE FILE_PATH="coverage/LLaMA_Factory$generate_sft_data_with_history.coverage" NAME="generate_sft_data_with_history 覆盖结果" MODIFIED="1754033263948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data/spbs_rl_data" />
   </component>

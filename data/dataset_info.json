@@ -753,5 +753,17 @@
   },
   "PPO_seed3": {
     "file_name": "spbs_rl_data/0710_sft_spbsrl/0429_Baseline_OCC_PPD_with_energy_const10_PPO_seed3.json"
+  },
+  "spbs_expert_stable_off": {
+    "file_name": "spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type1_stable_off.json"
+  },
+  "spbs_expert_stable_on": {
+    "file_name": "spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type2_stable_on.json"
+  },
+  "spbs_expert_adjusted": {
+    "file_name": "spbs_expert_data/sft_construction/all_types_sft_data_v8_1min_interval/type3_adjusted.json"
+  },
+  "spbs_action_mask": {
+    "file_name": "spbs_rl_action_mask/sft_training_data.json"
   }
 }

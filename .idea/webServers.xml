@@ -11,7 +11,7 @@
         <option name="numberOfConnections" value="20" />
       </webServer>
       <webServer id="21d718ba-9942-4739-8fba-ba41bcab2cf2" name="yyq-4xA800">
-        <fileTransfer accessType="SFTP" host="172.18.30.162" port="22" sshConfigId="b9c19933-020f-4cf5-b1d9-7a5d8f5380b3" sshConfig="yyq-shixi3@172.18.30.162:22 password">
+        <fileTransfer accessType="SFTP" host="172.18.30.162" port="22" sshConfigId="b9c19933-020f-4cf5-b1d9-7a5d8f5380b3" sshConfig="yyq-shixi2@172.18.30.162:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

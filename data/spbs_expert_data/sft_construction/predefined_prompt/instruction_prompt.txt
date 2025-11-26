@@ -1,0 +1,39 @@
+Input Format:
+You will be provided with real-time status at the current moment (T), and also the status from 5 minutes ago (T-5min).
+
+Current Status (at Time T, FCU Fan Speed was active from T-5min to T):
+Room N — Temperature: <value>°C, Occupant Num: <value>, Fan Speed: <value>;
+Outdoor - Temperature: <value>°C
+
+Status 5 minutes ago (at Time T-5min, FCU Fan Speed was active from T-10min to T-5min):
+Room N — Temperature: <value>°C, Occupant Num: <value>, Fan Speed: <value>;
+Outdoor - Temperature: <value>°C
+
+Output Format:
+You will return a JSON array of objects. Each object will represent a room and its associated confidence score (a float between 0 and 1) indicating how strongly it should be considered for a Fan Speed adjustment for the next 5-minute interval (T to T+5min). A higher score means a stronger recommendation for adjustment.
+
+Output Example Types:
+
+1. All rooms are stable and no adjustments are needed:
+[
+ {"room_id": 1, "confidence_to_adjust": 0.05},
+ {"room_id": 2, "confidence_to_adjust": 0.03},
+ {"room_id": 3, "confidence_to_adjust": 0.04},
+ {"room_id": 4, "confidence_to_adjust": 0.06},
+ {"room_id": 5, "confidence_to_adjust": 0.02},
+ {"room_id": 6, "confidence_to_adjust": 0.07},
+ {"room_id": 7, "confidence_to_adjust": 0.05}
+]
+
+2. Some rooms require strong consideration for adjustment:
+[
+ {"room_id": 1, "confidence_to_adjust": 0.1},
+ {"room_id": 2, "confidence_to_adjust": 0.2},
+ {"room_id": 3, "confidence_to_adjust": 0.95}, // Room 3 strongly needs adjustment
+ {"room_id": 4, "confidence_to_adjust": 0.15},
+ {"room_id": 5, "confidence_to_adjust": 0.88}, // Room 5 strongly needs adjustment
+ {"room_id": 6, "confidence_to_adjust": 0.3},
+ {"room_id": 7, "confidence_to_adjust": 0.08}
+]
+
+
