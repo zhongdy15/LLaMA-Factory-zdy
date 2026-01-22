@@ -765,5 +765,8 @@
   },
   "spbs_action_mask": {
     "file_name": "spbs_rl_action_mask/sft_training_data.json"
+  },
+  "spbs_bdq_expert": {
+    "file_name": "knn_sft_dataset_construction/output4_sft_training_data.json"
   }
 }
