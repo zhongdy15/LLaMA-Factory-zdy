@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9a476df-4ad3-4a97-8a23-d6e17e2f339d" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/garbage_test/count_token.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/knn_sft_dataset_construction/output4_sft_training_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/knn_sft_dataset_construction/output4_sft_training_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/knn_sft_dataset_construction/step4_sft_dataset_generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/knn_sft_dataset_construction/step4_sft_dataset_generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/garbage_test/count_token.py" beforeDir="false" afterPath="$PROJECT_DIR$/garbage_test/count_token.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +234,7 @@
       <workItem from="1764137107133" duration="2492000" />
       <workItem from="1768896026131" duration="4780000" />
       <workItem from="1769133750109" duration="594000" />
-      <workItem from="1769138663479" duration="4884000" />
+      <workItem from="1769138663479" duration="5643000" />
     </task>
     <servers />
   </component>

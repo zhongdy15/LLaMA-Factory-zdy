@@ -3,11 +3,11 @@ import json
 from pathlib import Path
 
 tokenizer = AutoTokenizer.from_pretrained(
-    "/mnt/data1/zdy/Meta-Llama-3-8B-Instruct",
+    "/mnt/zdy/Meta-Llama-3-8B-Instruct",
     use_fast=True
 )
 
-data_path = Path("../data/spbs_bdq_expert.json")
+data_path = Path("../data/knn_sft_dataset_construction/output4_sft_training_data.json")
 
 lengths = []
 
